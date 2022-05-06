@@ -1,0 +1,12 @@
+body{
+    background-color: white;
+}
+#payfee,#studentcorner,#noticeboard{
+    background-color: rgb(29, 75, 29);
+    color:white;
+    font-size: 18px;
+}
+.heading{
+    color:rgb(29, 75, 29);
+    font-weight: bold;
+}
